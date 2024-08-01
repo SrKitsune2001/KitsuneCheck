@@ -10,3 +10,4 @@ Este proyecto ha sido inspirado gracias al gran equipo de DragonStudio, un equip
 # Redes sociales
 Mi discord: srkork
 Discord de DragonStudio: https://discord.gg/72AFpyFpMC
+
